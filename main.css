@@ -1,0 +1,31 @@
+body {
+/* background is Subtle Grey made by Haris Šumić. Found on www.subtlepatterns.com */
+  background-image: url(images/pattern.png);
+  background-repeat: repeat;
+  color: black;
+}
+
+body,
+h1,
+h3,
+p {
+  font-family: 'Cutive', serif;
+}
+
+.container {
+  text-align: center;
+  padding-top: 50px;
+}
+
+hr {
+  width: 600px;
+  border-bottom: 1px solid white;
+}
+
+
+.quote-box {
+  border: 1px dotted gray;
+  border-radius: 15px;
+  padding: 10px;
+  margin-bottom: 15px;
+}
